@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "dc39",
+            "request": "launch",
+            "mainClass": "dc39",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc38",
+            "request": "launch",
+            "mainClass": "dc38",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc37",
+            "request": "launch",
+            "mainClass": "dc37",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc36",
+            "request": "launch",
+            "mainClass": "dc36",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc34",
+            "request": "launch",
+            "mainClass": "dc34",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc35",
+            "request": "launch",
+            "mainClass": "dc35",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc33",
+            "request": "launch",
+            "mainClass": "dc33",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc32",
+            "request": "launch",
+            "mainClass": "dc32",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc31",
+            "request": "launch",
+            "mainClass": "dc31",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc30",
+            "request": "launch",
+            "mainClass": "dc30",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc28",
+            "request": "launch",
+            "mainClass": "dc28",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc27",
+            "request": "launch",
+            "mainClass": "dc27",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc26",
+            "request": "launch",
+            "mainClass": "dc26",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc25",
+            "request": "launch",
+            "mainClass": "dc25",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc24",
+            "request": "launch",
+            "mainClass": "dc24",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc23",
+            "request": "launch",
+            "mainClass": "dc23",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dt08",
+            "request": "launch",
+            "mainClass": "dt08",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc22",
+            "request": "launch",
+            "mainClass": "dc22",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc21",
+            "request": "launch",
+            "mainClass": "dc21",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc20",
+            "request": "launch",
+            "mainClass": "dc20",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc19",
+            "request": "launch",
+            "mainClass": "dc19",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc18",
+            "request": "launch",
+            "mainClass": "dc18",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc17",
+            "request": "launch",
+            "mainClass": "dc17",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc16",
+            "request": "launch",
+            "mainClass": "dc16",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dt07",
+            "request": "launch",
+            "mainClass": "dt07",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc15",
+            "request": "launch",
+            "mainClass": "dc15",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc13",
+            "request": "launch",
+            "mainClass": "dc13",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dt06",
+            "request": "launch",
+            "mainClass": "dt06",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc12",
+            "request": "launch",
+            "mainClass": "dc12",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dt05",
+            "request": "launch",
+            "mainClass": "dt05",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc11",
+            "request": "launch",
+            "mainClass": "dc11",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc10",
+            "request": "launch",
+            "mainClass": "dc10",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dt04",
+            "request": "launch",
+            "mainClass": "dt04",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc09",
+            "request": "launch",
+            "mainClass": "dc09",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc08",
+            "request": "launch",
+            "mainClass": "dc08",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc07",
+            "request": "launch",
+            "mainClass": "dc07",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dt03",
+            "request": "launch",
+            "mainClass": "dt03",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc06",
+            "request": "launch",
+            "mainClass": "dc06",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dt02",
+            "request": "launch",
+            "mainClass": "dt02",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dt01",
+            "request": "launch",
+            "mainClass": "dt01",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc05",
+            "request": "launch",
+            "mainClass": "dc05",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc04",
+            "request": "launch",
+            "mainClass": "dc04",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc03",
+            "request": "launch",
+            "mainClass": "dc03",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "dc02",
+            "request": "launch",
+            "mainClass": "dc02",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "dc",
+            "request": "launch",
+            "mainClass": "dc",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "matrixdiagnol",
+            "request": "launch",
+            "mainClass": "matrixdiagnol",
+            "projectName": "JavaPractice_4a4f24d7"
+        },
+        {
+            "type": "java",
+            "name": "pattern01",
+            "request": "launch",
+            "mainClass": "pattern01",
+            "projectName": "JavaPractice_4a4f24d7"
+        }
+    ]
+}
